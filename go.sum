@@ -838,6 +838,12 @@ github.com/rancher/wrangler v1.1.1 h1:wmqUwqc2M7ADfXnBCJTFkTB5ZREWpD78rnZMzmxwMv
 github.com/rancher/wrangler v1.1.1/go.mod h1:ioVbKupzcBOdzsl55MvEDN0R1wdGggj8iNCYGFI5JvM=
 github.com/rancher/wrangler-cli v0.0.0-20220624114648-479c5692ba22 h1:ADMwgJyVwmLXJBSm/nNobB1XGSmFCTA+TY/otxgIPu4=
 github.com/rancher/wrangler-cli v0.0.0-20220624114648-479c5692ba22/go.mod h1:vyO9SU60oplNFa5ZqoEAFWmYKgj2F6remdy8p6H0SgI=
+github.com/rayandas/gitjob v1.27.2-rancher1 h1:4qSAxjrbp1KwqXSa9CJoP3hUfEEwvL5XbIQqt1Rji/k=
+github.com/rayandas/gitjob v1.27.2-rancher1/go.mod h1:g7ka4TFVuiVfc6h5G2fmlw8GY48lGOTPQmBM28ljiS0=
+github.com/rayandas/lasso v1.27.2-rancher1 h1:aDhY7DzpHLQICPmTvfFU4XznQglNx9HegbxQs4zHDaM=
+github.com/rayandas/lasso v1.27.2-rancher1/go.mod h1:w2LI2x8Q5GRRs8KhzQGIeokmxksDz6c134SP4f762w8=
+github.com/rayandas/wrangler v1.27.2-rancher1 h1:oXhvZHHgPkSnGRTV9utM84UW8dltFH2bvOovuowgmFs=
+github.com/rayandas/wrangler v1.27.2-rancher1/go.mod h1:UB/hrnn6STy9MzxMo6TESSgQdaa8seIbKSVjgp4tSpI=
 github.com/rivo/uniseg v0.2.0 h1:S1pD9weZBuJdFmowNwbpi7BJ8TNftyUImj/0WQi72jY=
 github.com/rivo/uniseg v0.2.0/go.mod h1:J6wj4VEh+S6ZtnVlnTBMWIodfgj8LQOQFoIToxlJtxc=
 github.com/rogpeppe/fastuuid v1.2.0/go.mod h1:jVj6XXZzXRy/MSR5jhDC/2q6DgLz+nrA6LYCDYWNEvQ=
